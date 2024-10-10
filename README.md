@@ -39,6 +39,8 @@ The third task focuses on preventing collisions by identifying potential hazards
 
 - **Collision Warning**: If an object is found within the safe boundary, the system will display a warning message such as "Collision detected" on the video frame.
 
-## Example:
-Below is a simple flowchart of the system:
+## Demo
+
+This repository contains a demo to show how the AI system works for object detection, novel object filtering, and collision avoidance in video.
+
 
